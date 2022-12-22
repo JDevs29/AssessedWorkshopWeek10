@@ -1,0 +1,3 @@
+﻿  Polymorphism.cpp
+C:\Users\james\source\repos\Polymorphism\Polymorphism\Polymorphism.cpp(51,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Polymorphism.vcxproj -> C:\Users\james\source\repos\Polymorphism\x64\Debug\Polymorphism.exe
